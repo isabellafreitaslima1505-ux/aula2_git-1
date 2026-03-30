@@ -14,3 +14,6 @@
 ### git push
 1. para sincronizar ou subir as mudanças para o repositório remoto
 2. git push -u origin "nome da branch"
+
+
+
